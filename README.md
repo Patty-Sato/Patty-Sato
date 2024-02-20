@@ -8,6 +8,7 @@
 
 - Programming languages: 🐍 Python - Pandas, Matplotlib, Seaborn and Scipy
 - Analytics: Power BI
+- Devops: GNU/ Linux
 - DB Language: SQL
 - Database: Oracle
 
