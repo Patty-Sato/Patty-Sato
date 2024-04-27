@@ -10,7 +10,7 @@
 - Analytics: Power BI
 - Devops: GNU/ Linux
 - DB Language: SQL
-- Database: Oracle
+- Database: Oracle, MongoDB, Redis
 
 
 <!---
