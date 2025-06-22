@@ -1,6 +1,6 @@
 ## Hi, I’m Patricia Sato 👋 
 - 👀 I’m interested in QA and Data Analytics
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning AI Engineering
 - 📫 How to reach me: 
 <div><pre>
   <a href="https:" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
