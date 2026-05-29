@@ -1,5 +1,7 @@
 ## Hi, I’m Patricia Sato 👋 
-- 👀 I’m interested in Data Analytics
+👀 I’m interested in Data Analytics
+
+
 
 - Programming languages: 🐍 Python - Pandas, NumPy, Matplotlib, Seaborn, StatsModels, SciPy, Scikit-learn
 - Analytics: Power BI, Tableau
