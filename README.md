@@ -1,5 +1,5 @@
 ## Hi, I’m Patricia Sato 👋 
-👀 I’m interested in Data Analytics
+👀 I’m interested in Data Analytics, specially Social Media Analytics and Digital Media
 
 
 
