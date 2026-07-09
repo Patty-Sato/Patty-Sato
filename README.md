@@ -1,13 +1,13 @@
 ## Hi, I’m Patricia Sato 👋 
-👀 I’m interested in Data Analytics, specially Social Media Analytics and Digital Media
-
+👀 I'm interested in Systems Development and Data Engineering, specially working with Oracle databases and corporate systems automation
 
 
 - Programming languages: 🐍 Python - Pandas, NumPy, Matplotlib, Seaborn, StatsModels, SciPy, Scikit-learn
 - Analytics: Power BI, Tableau
-- Devops: GNU/ Linux, Git, Notion, Trello
-- DB Language: SQL
+- Devops: GNU/Linux, Git, Docker (basic), Notion, Trello
+- DB Language: SQL, PL/SQL
 - Database: Oracle, Azure, MongoDB
+
 
 
 <!---
